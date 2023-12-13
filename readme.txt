@@ -1,5 +1,5 @@
 Project Title: Share Market Analysis 
-Contributors: Jeet Mehta and Akash Gupta.
+Contributors: Jeet Mehta.
 
  
 This project has 3 components:
