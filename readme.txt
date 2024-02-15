@@ -71,7 +71,7 @@ streamlit run dir\app.py  //here dir is your directory
 
 
 You will get link to open the App on the terminal,
-Click on lick and open the App,
+Click on link and open the App,
 Enter Stock Ticker, 
 TSLA,  GM and F  for Tesla, GM and Ford respectively.
 Wait for the processing,
